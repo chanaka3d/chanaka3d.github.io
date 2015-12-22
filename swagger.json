@@ -2,7 +2,7 @@
     "swagger": "2.0",
     "info": {
         "version": "0.9.0",
-        "title": "WSO2 API Manager",
+        "title": "WSO2 API Manager2",
         "description": "This document describe a ** RESTFul API ** for wso2 **API Manager**.\n\nYou can find the source of this API definition at [here](https://github.com/hevayo/restful-apim). It was written with [swagger 2](http://swagger.io/).\n",
         "contact": {
             "name": "WSO2",
